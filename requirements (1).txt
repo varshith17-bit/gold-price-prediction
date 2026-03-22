@@ -6,3 +6,5 @@ matplotlib
 statsmodels
 scikit-learn
 tensorflow
+keras
+plotly
