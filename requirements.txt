@@ -5,6 +5,6 @@ numpy
 matplotlib
 statsmodels
 scikit-learn
-tensorflow
+tensorflow-cpu
 keras
 plotly
